@@ -1,36 +1,48 @@
-# Hello World! I'm Welorcrav 😎
+# 👋 Hello World! I'm Welorcrav 😎
 
-🎮 I create PUBG content on YouTube!  
-👉 You can check out my YouTube channel at the bottom of this page. <br>
-<a href="https://www.youtube.com/@WelorPubgm">
-  <img src"https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg" width="25px">
-<a/>
+I'm **Jahongir**, a passionate **web developer** and **content creator** from **Uzbekistan**.
 
-📸 I also share on Instagram!  
-👉 My Instagram profile is also linked below.<br>
-<a href="https://www.instagram.com/welor.pg/">
-  <img src"https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_items_boosted&w=740" width="25px">
-<a/>
----
-
-### 👨‍💻 About Me:
-- My name is Jahongir  
-- I'm a web developer from Uzbekistan  
-- Passionate about coding, design, and gaming
+🎮 I make PUBG Mobile videos on YouTube  
+🎥 I create AI-based YouTube content  
+💻 I build cool web projects using HTML, CSS, and JavaScript  
+🎨 I also run a Telegram channel called [**Para rasmlar**](https://t.me/Welorcrav), where I share romantic visuals  
+🧠 I'm exploring game development (Piano Tiles & simple PC games)  
+🌐 Currently learning English & improving my dev skills step-by-step
 
 ---
 
-### 📌 Featured Projects:
-- [Online Store](https://github.com/Welorcrav/online-store) – A basic HTML-based online shop  
-- [Navbar Circle Animation](https://github.com/Welorcrav/navbar-circle-animation) – Smooth CSS-based navbar animation  
-- [Welorcrav](https://github.com/Welorcrav/Welorcrav) – This profile's repository
+## 🔧 Tech Stack & Interests:
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Web Design (dark/light themes, minimalist layouts)
+- AI tools for video creation & image generation
+- YouTube Shorts strategies
+- PC & Mobile games (Piano Tiles, 8 Ball Pool, PUBG Mobile)
 
 ---
 
-### 📫 Contact Me:
+## 📌 Featured Projects:
+- [Online Store](https://github.com/Welorcrav/online-store) – A basic HTML store layout  
+- [Navbar Circle Animation](https://github.com/Welorcrav/navbar-circle-animation) – Forked CSS animation  
+- [Welorcrav](https://github.com/Welorcrav/Welorcrav) – My GitHub profile repository
+
+---
+
+## 📫 Contact Me:
 - 📍 Location: Jizzakh, Uzbekistan  
 - 📧 Email: welorshorts@gmail.com  
 - 📷 Instagram: [@welor.pg](https://instagram.com/welor.pg)  
-- 💬 Telegram: [@Welorcrav](https://t.me/Welorcrav)
+- 💬 Telegram: [@Welorcrav](https://t.me/Welorcrav)  
+- 🌐 Portfolio (coming soon...)
 
-Thanks for visiting my GitHub profile! 🌟
+---
+
+### 🔥 Fun Facts:
+- I believe **motivation** is powerful — I share motivational posts regularly  
+- I’m always experimenting with trending topics for YouTube  
+- I prefer positive story endings and creative storytelling  
+- I love clean design, black & white aesthetics, and symmetrical layouts
+
+---
+
+Thanks for checking out my GitHub! Follow me for updates! 🌟  
