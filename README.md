@@ -3,13 +3,13 @@
 🎮 I create PUBG content on YouTube!  
 👉 You can check out my YouTube channel at the bottom of this page.
 <a href="https://www.youtube.com/@WelorPubgm">
-  <img src"https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png" width="25px">
+  <img src"https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg" width="25px">
 <a/>
 
 📸 I also share on Instagram!  
 👉 My Instagram profile is also linked below.
-<a href="[https://www.instagram.com/@WelorPubgm](https://www.instagram.com/welor.pg/)">
-  <img src"[https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png](https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_items_boosted&w=740)" width="25px">
+<a href="https://www.instagram.com/welor.pg/">
+  <img src"https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_items_boosted&w=740" width="25px">
 <a/>
 ---
 
