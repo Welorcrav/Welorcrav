@@ -1,13 +1,13 @@
 # Hello World! I'm Welorcrav 😎
 
 🎮 I create PUBG content on YouTube!  
-👉 You can check out my YouTube channel at the bottom of this page.
+👉 You can check out my YouTube channel at the bottom of this page. <br>
 <a href="https://www.youtube.com/@WelorPubgm">
   <img src"https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg" width="25px">
 <a/>
 
 📸 I also share on Instagram!  
-👉 My Instagram profile is also linked below.
+👉 My Instagram profile is also linked below.<br>
 <a href="https://www.instagram.com/welor.pg/">
   <img src"https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_items_boosted&w=740" width="25px">
 <a/>
