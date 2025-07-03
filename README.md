@@ -1,11 +1,31 @@
-## Hello World! I'am Welorcrav <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmF4bzEydGdneHZuZHY0NHZpc3M4aHkwaGIyN2dkOW5mYWtqc2YxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtOkaikiwaR87ZvAFH/giphy.webp" width="30px">
-I make pubg videos on Youtube! <br>
-You can see my Youtube Channel bottom the text! <br>
-<a href="https://www.youtube.com/@WelorPubgm">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWK7U1qR8TSAuBf4OEb-SerRUliMZK3OwOeg&s" width="25px">
-<a/> <br>
+# Hello World! I'm Welorcrav 😎
 
-My instagram profile bottom the text! <br>
-<a href="https://www.instagram.com/welor.pg/">
-  <img src="https://icon2.cleanpng.com/20240112/ejq/transparent-instagram-logo-colorful-camera-with-red-light-on-black-1710925877675.webp" width="25px">
-<a/> <br>
+🎮 I create PUBG content on YouTube!  
+👉 You can check out my YouTube channel at the bottom of this page.
+
+📸 I also share on Instagram!  
+👉 My Instagram profile is also linked below.
+
+---
+
+### 👨‍💻 About Me:
+- My name is Jahongir  
+- I'm a web developer from Uzbekistan  
+- Passionate about coding, design, and gaming
+
+---
+
+### 📌 Featured Projects:
+- [Online Store](https://github.com/Welorcrav/online-store) – A basic HTML-based online shop  
+- [Navbar Circle Animation](https://github.com/Welorcrav/navbar-circle-animation) – Smooth CSS-based navbar animation  
+- [Welorcrav](https://github.com/Welorcrav/Welorcrav) – This profile's repository
+
+---
+
+### 📫 Contact Me:
+- 📍 Location: Jizzakh, Uzbekistan  
+- 📧 Email: welorshorts@gmail.com  
+- 📷 Instagram: [@welor.pg](https://instagram.com/welor.pg)  
+- 💬 Telegram: [@Welorcrav](https://t.me/Welorcrav)
+
+Thanks for visiting my GitHub profile! 🌟
