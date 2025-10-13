@@ -5,7 +5,7 @@ I'm **Jahongir**, a passionate **web developer** and **content creator** from **
 🎮 I make PUBG Mobile videos on YouTube  
 🎥 I create AI-based YouTube content  
 💻 I build cool web projects using HTML, CSS, and JavaScript  
-🎨 I also run a Telegram channel called [**Para rasmlar**](https://t.me/Welorcrav), where I share romantic visuals  
+🎨 I also run a Telegram channel called [**Welor Pubgm Uc Service**](https://t.me/Welor_Pubgm_Uc_Service), where I share romantic visuals  
 🧠 I'm exploring game development (Piano Tiles & simple PC games)  
 🌐 Currently learning English & improving my dev skills step-by-step
 
