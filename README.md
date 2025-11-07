@@ -32,7 +32,7 @@ I'm **Jahongir**, a passionate **web developer** and **content creator** from **
 - 📍 Location: Jizzakh, Uzbekistan  
 - 📧 Email: welorshorts@gmail.com  
 - 📷 Instagram: [@welor.pg](https://instagram.com/welor.pg)  
-- 💬 Telegram: [@Welorcrav](https://t.me/Welorcrav)  
+- 💬 Telegram: [@we1or](https://t.me/we1or)  
 - 🌐 Portfolio (coming soon...)
 
 ---
